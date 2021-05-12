@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aram-mikay/react-expense-tracker/static/css/main.c8a0d6f8.chunk.css",
+    "main.js": "/aram-mikay/react-expense-tracker/static/js/main.8da79d11.chunk.js",
+    "main.js.map": "/aram-mikay/react-expense-tracker/static/js/main.8da79d11.chunk.js.map",
+    "runtime-main.js": "/aram-mikay/react-expense-tracker/static/js/runtime-main.84169a4c.js",
+    "runtime-main.js.map": "/aram-mikay/react-expense-tracker/static/js/runtime-main.84169a4c.js.map",
+    "static/js/2.f9fac3e2.chunk.js": "/aram-mikay/react-expense-tracker/static/js/2.f9fac3e2.chunk.js",
+    "static/js/2.f9fac3e2.chunk.js.map": "/aram-mikay/react-expense-tracker/static/js/2.f9fac3e2.chunk.js.map",
+    "static/js/3.335f3747.chunk.js": "/aram-mikay/react-expense-tracker/static/js/3.335f3747.chunk.js",
+    "static/js/3.335f3747.chunk.js.map": "/aram-mikay/react-expense-tracker/static/js/3.335f3747.chunk.js.map",
+    "index.html": "/aram-mikay/react-expense-tracker/index.html",
+    "static/css/main.c8a0d6f8.chunk.css.map": "/aram-mikay/react-expense-tracker/static/css/main.c8a0d6f8.chunk.css.map",
+    "static/js/2.f9fac3e2.chunk.js.LICENSE.txt": "/aram-mikay/react-expense-tracker/static/js/2.f9fac3e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84169a4c.js",
+    "static/js/2.f9fac3e2.chunk.js",
+    "static/css/main.c8a0d6f8.chunk.css",
+    "static/js/main.8da79d11.chunk.js"
+  ]
+}
